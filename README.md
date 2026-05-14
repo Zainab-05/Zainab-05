@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zainab Hotelwala</h1>
 
 <h3 align="center">
-Data Science & AI Enthusiast | Healthcare Analytics | NLP | Machine Learning
+Data Science & AI Enthusiast | Data Analytics | NLP | Machine Learning
 </h3>
 
 <p align="center">
