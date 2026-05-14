@@ -5,7 +5,7 @@ Data Science & AI Enthusiast | Data Analytics | NLP | Machine Learning
 </h3>
 
 <p align="center">
-Building intelligent healthcare and analytics systems using AI, data science, and visualization.
+Building intelligent analytic systems using AI, data science, and visualization.
 </p>
 
 ---
@@ -130,7 +130,7 @@ Building intelligent healthcare and analytics systems using AI, data science, an
 
 # 💡 Areas of Interest
 
-- Healthcare Analytics
+- Analytics
 - Artificial Intelligence
 - NLP & GenAI Systems
 - Recommendation Systems
